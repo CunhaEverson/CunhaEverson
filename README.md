@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CunhaEverson
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning @Java, @JavaScript @React, @React native
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning @Java, @JavaScript @React, @React native 
                                  
 
 <!---
